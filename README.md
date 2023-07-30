@@ -1,0 +1,1 @@
+# Roboflow-Object-Detection-Model-for-Device-Name-Recognition-in-Images-and-PDFs
