@@ -1,4 +1,5 @@
-**Project Name: ObjectDetectX: 🕵️‍♂️📸 Unleashing the Power of Object Detection and Organized Insights!**
+## **Project Name: ObjectDetectX: 🕵️‍♂️📸 Unleashing the Power of Object Detection and Organized Insights!**
+
 
 ## Introduction
 
